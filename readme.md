@@ -1,3 +1,6 @@
+## Publish
+Update `package.json` verison and run `$ ./appgyver-publish.sh`
+
 # tiny-lr [![Build Status](https://travis-ci.org/mklabs/tiny-lr.svg?branch=master)](https://travis-ci.org/mklabs/tiny-lr)
 
 This script manages a tiny [LiveReload](http://livereload.com/) server
